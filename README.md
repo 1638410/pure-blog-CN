@@ -7,4 +7,4 @@
 2. 不需要js也可以查看，无cookie等隐私追踪（static
 3. 类似[512kb club](https://github.com/kevquirk/512kb.club)
 
-   嘛，不会编程，先搁置了
+   嘛，不会编程，先搁置了，我还要看书呢…你可以fork自己搞一个
