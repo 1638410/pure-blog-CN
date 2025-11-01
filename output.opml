@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 01 Nov 2025 19:05:10 +0800</dateCreated>
+  </head>
+  <body>
+    <outline text="GFW Block（被墙，可能有价值）">
+      <outline text="社会人文大杂烩" type="rss" xmlUrl="https://tumutanzi.com/feed" htmlUrl="https://tumutanzi.com/" description="和光同尘、与时舒卷"/>
+      <outline text="社会评论（优质）" type="rss" xmlUrl="https://kenengba.com/post/category/%E7%A4%BE%E4%BC%9A%E8%AF%84%E8%AE%BA/feed" htmlUrl="https://kenengba.com/" description="有趣有用的互联网趋势"/>
+    </outline>
+    <outline text="反思与哲学">
+      <outline text="哲学思考" type="rss" xmlUrl="https://slykiten.com/tag/philosophy/feed/" htmlUrl="https://slykiten.com/" description="“美”不是一种外部标准，它是一种内在情感。那是爱。"/>
+    </outline>
+    <outline text="数学（技术，门槛较低）">
+      <outline text="数学和读书" type="rss" xmlUrl="https://blog.codingnow.com/index.xml" htmlUrl="https://blog.codingnow.com/" description="思绪来得快去得也快，偶尔会在这里停留"/>
+    </outline>
+    <outline text="生活">
+      <outline text="怀旧" type="rss" xmlUrl="https://imzm.im/category/old-time/feed/" htmlUrl="https://imzm.im/" description="以有涯随无涯"/>
+      <outline text="散文" type="rss" xmlUrl="https://www.huangjiwei.com/blog/?feed=rss2&amp;cat=8" htmlUrl="https://www.huangjiwei.com/blog" description="几支无用笔，半打有心人。"/>
+      <outline text="旅游" type="rss" xmlUrl="https://qumac.com/category/%E8%A1%8C%E8%B5%B0/feed/" htmlUrl="https://qumac.com/" description="Eric's notebook"/>
+      <outline text="科技（不贴代码）" type="rss" xmlUrl="https://imzm.im/category/tech/feed/" htmlUrl="https://imzm.im/" description="以有涯随无涯"/>
+    </outline>
+    <outline text="读书（个人书评，不分类）">
+      <outline text="大量书籍阅读记录" type="rss" xmlUrl="https://wangpei.net/tag/reading/feed/" htmlUrl="https://wangpei.net/" description="浅白易明  高雅简洁"/>
+      <outline text="小说评论" type="rss" xmlUrl="https://slykiten.com/category/novel-comments/feed/" htmlUrl="https://slykiten.com/" description="“美”不是一种外部标准，它是一种内在情感。那是爱。"/>
+      <outline text="影视/声音评论" type="rss" xmlUrl="https://slykiten.com/category/vidio%C2%B7sound/feed/" htmlUrl="https://slykiten.com/" description="“美”不是一种外部标准，它是一种内在情感。那是爱。"/>
+      <outline text="电影评论（IMZM）" type="rss" xmlUrl="https://imzm.im/category/movies/feed/" htmlUrl="https://imzm.im/" description="以有涯随无涯"/>
+      <outline text="阅读笔记（IMZM）" type="rss" xmlUrl="https://imzm.im/category/reading/feed/" htmlUrl="https://imzm.im/" description="以有涯随无涯"/>
+    </outline>
+  </body>
+</opml>
