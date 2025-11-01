@@ -30,18 +30,20 @@
   - https://blog.codingnow.com/cat3/ 游戏
   - https://blog.codingnow.com/cat27/ 数学和读书
  
-- 读书相关（我们有专门的书评网站，以个人为中心的书评不应该考虑进行分类，因为关注个人就或者书，此处仅仅是因为规则而进行分类）
+- 读书相关（我们有专门的书评网站，以个人为中心的书评不应该考虑进行分类，因为关注个人就或者书，此处仅仅是因为规则而进行分类，与此同时，把不同的书籍混在一块是很蠢的行为，没办法）
   - https://wangpei.net/tag/reading/ 很多很多书
   - https://slykiten.com/category/novel-comments/feed/
   - https://slykiten.com/category/vidio%c2%b7sound/feed/ 影视
-  - 
+  - https://imzm.im/category/reading/feed/ 
+  - https://imzm.im/category/movies/feed/ 电影
 
 1. https://blog.codingnow.com/cat4/ 生活
 2. https://wangpei.net/tag/%e4%b8%80%e4%b8%aa%e4%b8%9a%e4%bd%99%e6%91%84%e5%bd%b1%e7%88%b1%e5%a5%bd%e8%80%85%e7%9a%84%e7%bb%83%e4%b9%a0/ 摄影和生活（**流量预警**，不过你可以用各种途径达成去图片的效果）
-3. 
+3. https://imzm.im/category/tech/feed/ 科技——但是不至于贴代码
 4. https://www.huangjiwei.com/blog/?cat=8 散文
 5. https://qumac.com/category/%e8%a1%8c%e8%b5%b0/ 旅游
 6. https://slykiten.com/tag/philosophy/feed/ 反思
+7. https://imzm.im/category/old-time/feed/ 怀旧
 
 ## gfw block（被block掉的说不定又好东西）
 1. https://kenengba.com/post/category/%e7%a4%be%e4%bc%9a%e8%af%84%e8%ae%ba/feed 社会评论（好的
@@ -49,7 +51,7 @@
 3. https://tumutanzi.com/feed 社会人文大杂烩
 4. 
 
-## 日记类（不一定有实际作用，但是需要认识博主的就可以看啦
+## 日记类（不一定有实际作用，但是需要认识博主的就可以看啦，或者是不能/没有分类的
 1. https://blog.codingnow.com/cat1/
 2. https://wangpei.net/tag/life/
 3. https://qumac.com/category/%e8%a1%8c%e8%b5%b0/feed/
@@ -57,6 +59,10 @@
 5. https://wangpei.net/tag/nonfiction/ 人物类——大概就是**谁谁谁怎么想**
 6. https://couqiao.net/atom.xml
 7. https://slykiten.com/category/research/feed/ 科研日记
+8. https://imzm.im/category/post/feed/
+9. https://o0o0o0.cn/feed
+10. https://justinyan.me/post/category/literature
+11. https://lhcy.org/feed
 
 ## 喜欢的文章
 在收集过程中遇到的有趣文章。如果可以的话，还是希望建立一个在线浏览器收藏夹订阅服务，然后转成rss,再中转（防破解）到rss平台分享。
@@ -75,3 +81,6 @@
 - https://www.40huo.cn/tag/%E9%A9%AC%E5%93%B2/
 - https://oldj.net/article/2019/06/08/pico-8-maze
 - https://oldj.net/article/2024/04/21/lessons-from-poker
+- https://chidd.net/tag/%e8%82%ba%e7%82%8e/
+- https://chidd.net/tag/movie/
+- https://chidd.net/tag/lv-you/
