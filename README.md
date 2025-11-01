@@ -15,7 +15,8 @@
 
 参考：
 - https://github.com/okoddcat/excellent-chinese-blogs?tab=readme-ov-file
-- 
+
+先按照喜欢的“低知识”筛选，如果有不符合其他条件的，稍后会进行审查并处理。
 
 ## gfw free
 1. 
